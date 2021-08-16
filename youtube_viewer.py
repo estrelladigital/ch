@@ -92,8 +92,8 @@ driver = None
 status = None
 server_running = False
 
-view = []
-duration_dict = {}
+view = [1000]
+duration_dict = {00:45}
 checked = {}
 console = []
 completed = 0
