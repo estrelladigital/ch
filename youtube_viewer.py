@@ -93,7 +93,7 @@ status = None
 server_running = False
 
 view = [1000]
-duration_dict = {00:45}
+duration_dict = {00:01:45}
 checked = {}
 console = []
 completed = 0
